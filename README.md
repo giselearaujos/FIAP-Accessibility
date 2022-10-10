@@ -1,4 +1,4 @@
-# Atividade - Responsividade
+# Atividade - Accessibilidade
 
 ## Tecnologias Utilizadas:
 
@@ -8,8 +8,12 @@
 
 ## Desenvolvimento:
 
-- Realizado desenvolvimento do layout focado para desktop e mobile.
+- Realizado desenvolvimento do layout focado para desktop.
 - Utilizado HTML5 semântico.
+- Aplicado fonte OpenDyslexic.
+- Aplicado legenda descritiva para imagens.
+- Aplicado tabindex para navegação pelo teclado.
+- Aplicado plugin vLibras.
 
 ## Como rodar a aplicação:
 
@@ -18,4 +22,4 @@
 
 ## Site da Aplicação:
 
-- https://fiap-responsiveness.vercel.app/
+- https://accessibility-nine.vercel.app/
