@@ -16,7 +16,7 @@
   display: flex;
   justify-content: center;
   margin: 2rem 0rem;
-  max-width: 58%;
+  max-width: 81%;
 }
 
 .figure-main {
@@ -86,4 +86,10 @@
   padding: 1rem 0rem;
   font-size: 0.8rem;
   font-weight: bold;
+}
+
+@media (max-width: 1365px) {
+  .container-home-main {
+    max-width: 58%;
+  }
 }
